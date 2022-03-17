@@ -12,7 +12,7 @@ const FormContainer = styled.div`
     padding: 10px 0;
   }
   & .inputField {
-    width: 100%;
+    width:380px;
     height: 60px;
     border: 0.5px solid black;
     border-radius: 16px;
